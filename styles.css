@@ -8,7 +8,6 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
@@ -33,15 +32,15 @@ footer {
 }
 
 .j {
-   background-image: url("images/snare.png");
+  background-image: url("images/snare.png");
 }
 
 .k {
-  background-image: url("images/kick.png");
+  background-image: url("images/crash.png");
 }
 
 .l {
-  background-image: url("images/crash.png");
+  background-image: url("images/kick.png");
 }
 
 .set {
